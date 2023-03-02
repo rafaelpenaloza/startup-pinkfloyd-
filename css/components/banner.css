@@ -1,0 +1,18 @@
+.banner {
+	background-image:url(../../images/pinkfloyd3.jpg);
+	color: #FCBACB;
+	padding: 88px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1 {
+	font-size: 88px;
+}
+
+.banner h2 {
+	font-size: 35px;
+	font-weight: lighter;
+	color: #FC94AF;
+	margin-bottom: 88px;
+}

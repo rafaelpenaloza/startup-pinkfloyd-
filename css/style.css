@@ -1,0 +1,23 @@
+@import url(https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Rock+Salt&display=swap);
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body, h3{
+	font-family: 'Rock Salt';
+	font-size: 18px;
+	font font-weight: lighter;
+	margin: 0px;
+}
+h1, h2{
+	font-family: Climate Crisis;
+	font-size: ;
+}
+
+a{
+ text-decoration: none;
+}
